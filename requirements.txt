@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+nba_api
+pandas
+sqlalchemy>=2.0
+psycopg2-binary
+python-dotenv
+
